@@ -308,5 +308,4 @@ MIT License - Use freely for personal and educational purposes.
 - [face-api.js](https://github.com/vladmandic/face-api) by Vladimir Mandic
 - [TensorFlow.js](https://www.tensorflow.org/js) by Google
 - [idb](https://github.com/jakearchibald/idb) by Jake Archibald
-=======
 
