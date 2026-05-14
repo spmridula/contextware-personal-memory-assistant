@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Context-Ware Personal Memory Assistant
 
 A fully client-side face recognition application that runs entirely in the browser. Your data never leaves your device - complete privacy guaranteed.
@@ -10,7 +9,7 @@ A fully client-side face recognition application that runs entirely in the brows
 - **100% Client-Side**: No server, no cloud, no data transmission
 - **Offline Support**: Works offline after initial load via Service Worker
 - **Privacy First**: All data stored locally in IndexedDB
-- **Mobile Friendly**: Responsive design with front camera support
+- **User Friendly**: Responsive design with front camera support
 
 ## Tech Stack
 
@@ -310,5 +309,4 @@ MIT License - Use freely for personal and educational purposes.
 - [TensorFlow.js](https://www.tensorflow.org/js) by Google
 - [idb](https://github.com/jakearchibald/idb) by Jake Archibald
 =======
-# CONTEXTWARE-PERSONAL-MEMORY-ASSITANT
->>>>>>> 729b41656f6a3c67960f9ed2493bbd6adf9b1854
+
