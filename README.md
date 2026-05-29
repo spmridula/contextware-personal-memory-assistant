@@ -134,6 +134,10 @@ npm run build
 
 The built files will be in the `build/` directory. You can serve them with any static file server.
 
+## CWPMA Screenshot
+
+<img width="1918" height="945" alt="Screenshot 2026-05-14 180606" src="https://github.com/user-attachments/assets/532f98f6-224c-49ae-9294-ea3d707cda39" />
+
 ## Usage
 
 ### Starting Face Detection
